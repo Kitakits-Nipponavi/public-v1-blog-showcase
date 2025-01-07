@@ -1,0 +1,13 @@
+/* Global CSS */
+
+.shadow-outset {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.shadow-inset {
+  box-shadow: inset rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.shadow-disable {
+  box-shadow: unset;
+}
